@@ -38,12 +38,16 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful!")
+            
+            Button("Subscribe") {
+                
+            }
+            
+            Rectangle()
         }
         .padding()
         
-        Button("Subscribe") {
-            
-        }
+       
         
        
     }
