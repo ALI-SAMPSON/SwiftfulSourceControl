@@ -7,6 +7,13 @@
 
 /*
  
+ Cloning =>  Copying the repo locally
+ Commit => Save checkpoint on current branch
+ Stage => Prepare changes for a commit
+ Stash => Save changes for later
+ Push => Send local commits to remote repo
+ Pull => Pull remote commits to local repo
+ 
  WRITING GOOD COMMIT MESSAGES
  
  NEW FEEATURE:
