@@ -15,14 +15,17 @@
  BUG IN PRODUCTION
  [Patch] Descriptioin of patch
  
+ RELEASE
+ [Release] Description of release
+ 
+ 
  BUG NOT IN PRODUCTION
  [Bug] Descriptioin of bug
  
  MUNDANE TASKS
  [Clean] Description of changes
  
- RELEASE
- [Release] Description of release
+
  
  */
 
