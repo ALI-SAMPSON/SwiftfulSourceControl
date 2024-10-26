@@ -1,0 +1,89 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+xcuserdata/
+!default.mode1v3
+!default.ideworkspace
+
+# Xcode project files
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/xcshareddata/xcschemes
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcplayground
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+*.lock
+
+# Archives
+*.xcarchive
+
+# App Files
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Provisioning Profiles
+*.mobileprovision
+*.provisionprofile
+
+# Symbol Maps
+*.bcsymbolmap
+
+# Bundle artifacts
+*.ipa
+*.app
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.DS_Store
+
+# macOS specific files
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Finder settings
+.DS_Store
+.localized
+
+# Icon?
+Icon
+
+# Sync conflicts
+*.icloud
+*.tmp
+*.swp
+
+# Environment settings
+.env
+.env.*
