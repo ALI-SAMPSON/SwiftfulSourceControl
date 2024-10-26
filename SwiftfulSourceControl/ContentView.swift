@@ -13,6 +13,10 @@
  Stash => Save changes for later
  Push => Send local commits to remote repo
  Pull => Pull remote commits to local repo
+ Merge => Fetch remote commits to remote repo
+ Rebase => Moving one branch on top of another branch
+ Cherry Picking => Duplication (copying) one commit from one branch to another
+ Pull Request (PR) => Request to merge branch
  
  WRITING GOOD COMMIT MESSAGES
  
