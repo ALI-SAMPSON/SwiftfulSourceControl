@@ -12,6 +12,7 @@
 		B134D7052CBA836F009C29C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B134D7042CBA836F009C29C4 /* Assets.xcassets */; };
 		B134D7082CBA836F009C29C4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B134D7072CBA836F009C29C4 /* Preview Assets.xcassets */; };
 		B134D70F2CBD4232009C29C4 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B134D70E2CBD4232009C29C4 /* HomeView.swift */; };
+		B181F8962CCCF915007BABAA /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B181F8952CCCF915007BABAA /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B134D7042CBA836F009C29C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B134D7072CBA836F009C29C4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B134D70E2CBD4232009C29C4 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		B181F8952CCCF915007BABAA /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				B134D7022CBA836D009C29C4 /* ContentView.swift */,
 				B134D7042CBA836F009C29C4 /* Assets.xcassets */,
 				B134D7062CBA836F009C29C4 /* Preview Content */,
+				B181F8952CCCF915007BABAA /* SettingsView.swift */,
 			);
 			path = SwiftfulSourceControl;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B134D70F2CBD4232009C29C4 /* HomeView.swift in Sources */,
+				B181F8962CCCF915007BABAA /* SettingsView.swift in Sources */,
 				B134D7032CBA836D009C29C4 /* ContentView.swift in Sources */,
 				B134D7012CBA836D009C29C4 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
