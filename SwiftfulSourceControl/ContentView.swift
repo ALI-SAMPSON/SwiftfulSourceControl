@@ -20,6 +20,7 @@
  PR merge => MErge all commits
  PR Squash and Merge = Squash all commits into ONE and then merge ONE commit
  
+ 
  WRITING GOOD COMMIT MESSAGES
  
  NEW FEEATURE:
